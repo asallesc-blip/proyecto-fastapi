@@ -1,7 +1,9 @@
-fastapi
-uvicorn
-sqlalchemy
-psycopg2-binary
-pydantic
-email-validator
-python-dotenv
+fastapi==0.115.8
+uvicorn==0.34.0
+sqlalchemy==2.0.38
+alembic==1.15.1
+pydantic==2.11.3
+pydantic-settings==2.9.1
+python-dotenv==1.1.0
+psycopg2-binary==2.9.10
+email-validator==2.2.0
